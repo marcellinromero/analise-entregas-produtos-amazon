@@ -93,7 +93,7 @@ Esses insights mostram que o atraso não é aleatório, mas resultado de fatores
 
 -Relatórios e gráficos que podem ser utilizados por áreas não técnicas.
 
--Link para relatório completo
+-Link para relatório completo: https://lookerstudio.google.com/reporting/986d091d-1fdc-4c7f-8e54-b591472b919e
 
 Além disso, o projeto demonstra como a análise de dados pode transformar dados operacionais em decisões práticas, mesmo utilizando técnicas simples.
 
